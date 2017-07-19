@@ -1,0 +1,10 @@
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\bin\Debug\shutdown.exe.config
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\obj\Debug\shutdown.Form1.resources
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\obj\Debug\shutdown.Resources.resources
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\obj\Debug\shutdown.vbproj.GenerateResource.Cache
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\bin\Debug\shutdown.exe
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\bin\Debug\shutdown.pdb
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\bin\Debug\shutdown.xml
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\obj\Debug\shutdown.exe
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\obj\Debug\shutdown.xml
+c:\users\manan\documents\visual studio 2013\Projects\shutdown\shutdown\obj\Debug\shutdown.pdb
